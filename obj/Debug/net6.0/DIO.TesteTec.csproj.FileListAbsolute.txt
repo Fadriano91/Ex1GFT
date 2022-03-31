@@ -1,0 +1,15 @@
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\DIO.TesteTec.csproj.AssemblyReference.cache
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\DIO.TesteTec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\DIO.TesteTec.AssemblyInfoInputs.cache
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\DIO.TesteTec.AssemblyInfo.cs
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\DIO.TesteTec.csproj.CoreCompileInputs.cache
+C:\Users\Francis\dio\DIO.TesteTec\bin\Debug\net6.0\DIO.TesteTec.exe
+C:\Users\Francis\dio\DIO.TesteTec\bin\Debug\net6.0\DIO.TesteTec.deps.json
+C:\Users\Francis\dio\DIO.TesteTec\bin\Debug\net6.0\DIO.TesteTec.runtimeconfig.json
+C:\Users\Francis\dio\DIO.TesteTec\bin\Debug\net6.0\DIO.TesteTec.dll
+C:\Users\Francis\dio\DIO.TesteTec\bin\Debug\net6.0\ref\DIO.TesteTec.dll
+C:\Users\Francis\dio\DIO.TesteTec\bin\Debug\net6.0\DIO.TesteTec.pdb
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\DIO.TesteTec.dll
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\ref\DIO.TesteTec.dll
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\DIO.TesteTec.pdb
+C:\Users\Francis\dio\DIO.TesteTec\obj\Debug\net6.0\DIO.TesteTec.genruntimeconfig.cache
