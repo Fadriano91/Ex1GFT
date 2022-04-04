@@ -1,26 +1,27 @@
 namespace DIO.TesteTec.Classes
 {
     public class Pessoa
-    {
-        
+    {  
         private string Nome { get; set; }
-        private string dataNascimento { get; set; }
+        private int ddNascimento { get; set; }
+        private int mmNascimento { get; set; }
+        private int aaaaNascimento { get; set; }
         private int Altura {get;set;}
-        private string Idade{get;set;}
-        public Pessoa(string Nome, string dataNascimento, int Altura)
+        public Pessoa(string Nome, int ddNascimento, int mmNascimento, int aaaaNascimento, int Altura)
         {
             this.Nome = Nome;
-            this.dataNascimento = dataNascimento;
+            this.ddNascimento = ddNascimento;
+            this.mmNascimento = mmNascimento;
+            this.aaaaNascimento = aaaaNascimento;
             this.Altura = Altura;
-
         }
-    
-
-    public override string ToString(){
-        return  "Nome: " + Nome +"\n"+
-                "Data Nascimento: " + dataNascimento +"\n"+ 
-                "Altura: " + Altura;
-
+        public override string ToString(){
+            var Calcularidade = 2022 - aaaaNascimento;
+            return
+                    "Nome: " + Nome +"\n"+
+                    "Data Nascimento: " + ddNascimento +"/"+ mmNascimento +"/"+ aaaaNascimento +"\n"+ 
+                    "Altura: " + Altura +"\n"+
+                    "Idade: " + Calcularidade;
+        }
     }
-     }
 }
